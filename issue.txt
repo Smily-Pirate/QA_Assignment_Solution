@@ -1,0 +1,10 @@
+Issues
+
+1. Accepts other files when the code clearly says only pdf.
+2. No message when we click on Upload Document without choosing file.
+3. No error message when file is of different extension.
+4. No Data limit
+5. No error handling Message for data limit
+6. No error handling if there is no upload in directory
+7. File length is not validated
+8. Long file is accepted in both client side and backend
