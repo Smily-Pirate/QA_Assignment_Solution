@@ -1,0 +1,16 @@
+Requirement:
+
+1. Use Selenium with any language (JAVA prefered) to automate following cases:
+2. TestSite
+3. Create driver setup and teardown function
+4. Create function for each test cases
+A. WAPtoautomateloginpagefrom“BasicAuth”pageandvalidate.User:admin Password:admin
+
+B. WAPtoautomate“Checkboxes”pagebytickingboxesandvalidatingit.
+
+Variable = https://the-internet.herokuapp.com/
+Variable/basic_auth
+Variable/checkboxes
+
+//*[@id="checkboxes"]/input[1]
+//*[@id="checkboxes"]/input[2]

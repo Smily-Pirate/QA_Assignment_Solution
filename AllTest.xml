@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Upload File Test Suite">
+    <test name="Upload File Tests">
+<!--        This is all the test.-->
+        <classes>
+             <class name="TestFilenameLength"/>
+             <class name="TestFileSize"/>
+             <class name="TestNoFileUpload"/>
+             <class name="TestSpecialCharacters"/>
+             <class name="TestInvalidFileUpload"/>
+             <class name="TestPDFUpload"/>
+        </classes>
+    </test>
+</suite>
